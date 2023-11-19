@@ -1,0 +1,7 @@
+#include<stdio.h>
+int main()
+{
+a=10,b=5;
+scanf("%d%d");
+print("The sum is %d",c=a+b);
+}
