@@ -1,0 +1,8 @@
+#include<stdio.h>
+int main()
+{
+a=hello;
+scanf("%c");
+print("a"):
+return 0;
+}
